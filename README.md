@@ -22,11 +22,6 @@
   </table>
 </div>
 
-## 📈 GitHub Stats
-![Ana Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DraghiciAnaMaria&show_icons=true&theme=tokyonight)
-
-## 📊 Linguaggi più usati
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraghiciAnaMaria&layout=compact&langs_count=8&theme=tokyonight)
 
 
 # Languages & Tools 👨‍💻 🛠:
